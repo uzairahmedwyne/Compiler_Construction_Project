@@ -1,0 +1,15 @@
+not go ()
+{
+integer #abc = -55.99++
+4a='a'+'\n'+'abc'+==c
+unless(@a<<<b+++==+7) // a=b=c
+oriff(a!!===c)
+~xp=.964=+.2;a
+a==b/*a+=c
+56+5abc+*==* / $s = "abc"123/=
+loop()
+{
+}
+return;
+str $xyz = "abc"pqr";
+}

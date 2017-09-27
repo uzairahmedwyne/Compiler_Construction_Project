@@ -120,7 +120,7 @@ public class Lexical_Analyzer {
     public static void main(String[] args) {
         try
         {
-                FileReader fr=new FileReader("E:\\source.txt");
+                FileReader fr=new FileReader("source.txt");
                 BufferedReader br =new BufferedReader(fr);
                 
                 String temp, code="";
